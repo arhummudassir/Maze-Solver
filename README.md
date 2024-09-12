@@ -1,4 +1,4 @@
-Arhum Mudassir
+Author : Arhum Mudassir
 
 For this project there is a make file to compile and link the seperate files
 
